@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const fetchDataFromAPI = async (offset, itemsPerPage) => {
+export const fetchDataFromAPI = async (offset:any, itemsPerPage:number) => {
   try {
     const response = await axios.get(
       "https://technical-task-api.icapgroupgmbh.com/api/table/"
