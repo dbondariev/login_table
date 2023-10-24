@@ -2,17 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Clone the project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Run npm install
+
+and then run:
+npm run dev 
+or 
+npm start
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -20,3 +18,5 @@ To Login use these credentials:
 
 Username: testuser
 Password: testpassword123
+
+To see the demo of a project visit [DEMO]([...](https://login-table-5ovc.vercel.app/)https://login-table-5ovc.vercel.app/)
