@@ -19,4 +19,4 @@ To Login use these credentials:
 Username: testuser
 Password: testpassword123
 
-To see the demo of a project visit  DEMO [DEMO](https://login-table-5ovc.vercel.app/)
+To see the demo of a project visit [DEMO](https://login-table-5ovc.vercel.app/)
